@@ -56,6 +56,8 @@ The **Bug Fixer** application is a ticket management system built with React. It
 ![Screenshot 2024-12-18 012240](https://github.com/user-attachments/assets/04612b15-1567-42d6-9d00-585f2f10751b)
 
 
+![Screenshot 2024-12-18 125639](https://github.com/user-attachments/assets/485f8337-01d1-447b-b5f3-b62abde44e9e)
+
 ## Contributing
 
  We welcome contributions! Here’s how you can help:  
